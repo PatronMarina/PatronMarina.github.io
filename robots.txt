@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patronmarina.github.io/sitemap.xml
